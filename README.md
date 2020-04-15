@@ -19,6 +19,8 @@ You can view the finished products in `mathjail.txt` and `mathjail_debug.txt`
 3. To compile, run `tsc mathjail.ts`
 4. Run it with `node mathjail.js` or `node mathjail.js debug`
 
+If I screwed somethin up, or something could be improved, please submit an issue and or fork, change, and pull request.
+
 Made in TypeScript.
 
 ❤ - Consolio
