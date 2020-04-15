@@ -12,6 +12,13 @@ What's the intermediate and final values?
 
 That's what I set out to do, and succeeded.
 
+You can view the finished products in `mathjail.txt` and `mathjail_debug.txt`
+
+1. To try this for yourself, clone this repo to your machine and run `npm install` inside of the repository, wait for everything to install, then move on to step 2.
+2. If you want to skip compiling (don't, there isn't a reason to skip it), then just run `node mathjail.js`, if you want more info in the finished file, run `node mathjail.js debug` instead. You can skip the next steps if you did this.
+3. To compile, run `tsc mathjail.ts`
+4. Run it with `node mathjail.js` or `node mathjail.js debug`
+
 Made in TypeScript.
 
 ❤ - Consolio
