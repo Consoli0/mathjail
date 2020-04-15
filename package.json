@@ -1,0 +1,17 @@
+{
+  "name": "mathjail",
+  "version": "1.0.0",
+  "description": "m a t h e m a t i c s j a i l",
+  "main": "mathjail.js",
+  "scripts": {
+    "build": "tsc mathjail.ts",
+    "run": "node mathjail.js",
+    "brun": "tsc mathjail.ts && node mathjail.ts"
+  },
+  "author": "Consoli0",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.11.1",
+    "typescript": "^3.8.3"
+  }
+}
